@@ -1,7 +1,22 @@
+# 0.3.0 (2021-09-20)
+
+### Documentation
+
+* docs(aws-org-close-member-account): Added step for changing the email address of the `member account` to be closed. (0v3rst33r) ([`79cb1b4`](https://github.com/0v3rst33r/handy-docs/commit/79cb1b493ada8c116db519fb348392011aaf447a))
+
+### Chore
+
+* chore(version): Bumped the version. (0v3rst33r) ([`ddb0d46`](https://github.com/0v3rst33r/handy-docs/commit/ddb0d469a8906069f9484aa10f360a466d0e8f71))
+
+### Misc (pre semantic commit messages)
+
+* Merge pull request #4 from 0v3rst33r/feature/aws-org-close-member-account (0v3rst33r) ([`f19ddc5`](https://github.com/0v3rst33r/handy-docs/commit/f19ddc5c0005eb8647a20542a3b4bc59f8088129))
+
 # 0.2.0 (2021-09-20)
 
 ### Documentation
 
+* docs(changelog): `CHANGELOG` for `0.2.0` release. (0v3rst33r) ([`aa27f3b`](https://github.com/0v3rst33r/handy-docs/commit/aa27f3b4b2101502198fd95528d7ff08c989e7ce))
 * docs(aws-org-close-member-account): Added documentation for closing a `member account` in an `AWS Org`. (0v3rst33r) ([`6e4ae6d`](https://github.com/0v3rst33r/handy-docs/commit/6e4ae6d2943fd5f7fe66dac299e1c103a53185e0))
 
 ### Misc (pre semantic commit messages)
