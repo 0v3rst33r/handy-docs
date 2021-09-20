@@ -1,0 +1,36 @@
+site_name: Handy Docs
+#repo_name: 0v3rst33r/handy-docs
+#repo_url: https://github.com/0v3rst33r/handy-docs
+copyright: Copyright &copy; 2021 0v3rst33r
+
+theme:
+#  logo: assets/logo.png
+  name: material
+  features:
+    - navigation.top
+  #     - navigation.tabs
+  #     - navigation.tabs.sticky
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: white
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+markdown_extensions:
+  - toc:
+      permalink: True
+  - admonition
+  - pymdownx.tabbed
+
+pages:
+  - 'Home': 'index.md'
+  - 'AWS':
+      - 'Main': 'aws/index.md'
+      - 'Organisations':
+          - 'Main': 'aws/organisations/index.md'
+          - 'Close account': 'aws/organisations/close-account.md'
