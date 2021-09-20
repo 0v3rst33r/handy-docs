@@ -33,4 +33,7 @@ pages:
       - 'Main': 'aws/index.md'
       - 'Organisations':
           - 'Main': 'aws/organisations/index.md'
-          - 'Close account': 'aws/organisations/close-account.md'
+          - 'Close account':
+                'Management account': 'aws/organisations/close-management-account.md'
+                'Member account': 'aws/organisations/close-member-account.md'
+
