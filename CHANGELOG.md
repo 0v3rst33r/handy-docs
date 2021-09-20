@@ -1,8 +1,22 @@
+# 0.2.0 (2021-09-20)
+
+### Documentation
+
+* docs(aws-org-close-member-account): Added documentation for closing a `member account` in an `AWS Org`. (0v3rst33r) ([`6e4ae6d`](https://github.com/0v3rst33r/handy-docs/commit/6e4ae6d2943fd5f7fe66dac299e1c103a53185e0))
+
+### Misc (pre semantic commit messages)
+
+* Merge pull request #3 from 0v3rst33r/feature/aws-org-close-member-account (0v3rst33r) ([`f04a1a8`](https://github.com/0v3rst33r/handy-docs/commit/f04a1a89788748b5d529963efe4220996c140dac))
+
 # 0.1.1 (2021-09-20)
 
 ### Fixes
 
 * fix(pip-requirements): Forgot to add the `requirements` file for `pip`. (0v3rst33r) ([`b16688e`](https://github.com/0v3rst33r/handy-docs/commit/b16688e5a572841fdcab8c04b46a7e80d32ea875))
+
+### Documentation
+
+* docs(changelog): `CHANGELOG` for `0.1.1` release. (0v3rst33r) ([`0464f66`](https://github.com/0v3rst33r/handy-docs/commit/0464f66f2e1c999da415e9abb66c980fafa93303))
 
 ### Misc (pre semantic commit messages)
 
