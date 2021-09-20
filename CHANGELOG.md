@@ -1,7 +1,18 @@
+# 0.1.1 (2021-09-20)
+
+### Fixes
+
+* fix(pip-requirements): Forgot to add the `requirements` file for `pip`. (0v3rst33r) ([`b16688e`](https://github.com/0v3rst33r/handy-docs/commit/b16688e5a572841fdcab8c04b46a7e80d32ea875))
+
+### Misc (pre semantic commit messages)
+
+* Merge pull request #2 from 0v3rst33r/fix/pip-requirements (0v3rst33r) ([`5c25a5b`](https://github.com/0v3rst33r/handy-docs/commit/5c25a5b4017da073581691a94b3863b20ef8958b))
+
 # 0.1.0 (2021-09-20)
 
 ### Documentation
 
+* docs(changelog): `CHANGELOG` for `0.1.0` release. (0v3rst33r) ([`a24d36d`](https://github.com/0v3rst33r/handy-docs/commit/a24d36d8e505bfcfd9aa93b5a393c888f7b16e77))
 * docs(initial): First stab at setting up public docs. (0v3rst33r) ([`dc4be09`](https://github.com/0v3rst33r/handy-docs/commit/dc4be09f2cae821b03a3774ddf1aef4b38904a23))
 
 ### Misc (pre semantic commit messages)
