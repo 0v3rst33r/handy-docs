@@ -4,36 +4,37 @@ site_name: Handy Docs
 copyright: Copyright &copy; 2021 0v3rst33r
 
 theme:
-#  logo: assets/logo.png
-  name: material
-  features:
-    - navigation.top
-  #     - navigation.tabs
-  #     - navigation.tabs.sticky
-  palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-      primary: white
-    - scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    #  logo: assets/logo.png
+    name: material
+    features:
+        - navigation.top
+    #     - navigation.tabs
+    #     - navigation.tabs.sticky
+    palette:
+        - scheme: default
+          toggle:
+              icon: material/toggle-switch-off-outline
+              name: Switch to dark mode
+          primary: white
+        - scheme: slate
+          toggle:
+              icon: material/toggle-switch
+              name: Switch to light mode
 
 markdown_extensions:
-  - toc:
-      permalink: True
-  - admonition
-  - pymdownx.tabbed
+    - toc:
+          permalink: True
+    - admonition
+    - pymdownx.tabbed
 
 pages:
-  - 'Home': 'index.md'
-  - 'AWS':
-      - 'Main': 'aws/index.md'
-      - 'Organisations':
-          - 'Main': 'aws/organisations/index.md'
-          - 'Close account':
-                'Management account': 'aws/organisations/close-management-account.md'
-                'Member account': 'aws/organisations/close-member-account.md'
+    - 'Home': 'index.md'
+    - 'git': 'git/index.md'
+    - 'AWS':
+          - 'Main': 'aws/index.md'
+          - 'Organisations':
+                - 'Main': 'aws/organisations/index.md'
+                - 'Close account':
+                      'Management account': 'aws/organisations/close-management-account.md'
+                      'Member account': 'aws/organisations/close-member-account.md'
 
