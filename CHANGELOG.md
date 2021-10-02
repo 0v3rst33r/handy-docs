@@ -1,7 +1,22 @@
+# 0.4.0 (2021-10-02)
+
+### Documentation
+
+* docs(git-commands): Added basic `git` commands. (0v3rst33r) ([`38637bf`](https://github.com/0v3rst33r/handy-docs/commit/38637bfab0f485b0b6c2c67dc682972a35337979))
+
+### Chore
+
+* chore(version): Bumped the version. (0v3rst33r) ([`9b83de7`](https://github.com/0v3rst33r/handy-docs/commit/9b83de7667294a3a3b7b165b5174fec0277e4fcb))
+
+### Misc (pre semantic commit messages)
+
+* Merge pull request #5 from 0v3rst33r/feature/git-commands (0v3rst33r) ([`18dbe21`](https://github.com/0v3rst33r/handy-docs/commit/18dbe2187da97357c880fdb4bd5ad992c903fd0f))
+
 # 0.3.0 (2021-09-20)
 
 ### Documentation
 
+* docs(changelog): `CHANGELOG` for `0.3.0` release. (0v3rst33r) ([`59c9189`](https://github.com/0v3rst33r/handy-docs/commit/59c9189422e97385b05eca7bd5cfeefb45296421))
 * docs(aws-org-close-member-account): Added step for changing the email address of the `member account` to be closed. (0v3rst33r) ([`79cb1b4`](https://github.com/0v3rst33r/handy-docs/commit/79cb1b493ada8c116db519fb348392011aaf447a))
 
 ### Chore
